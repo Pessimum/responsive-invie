@@ -274,7 +274,7 @@ input:focus, textarea:focus {
 
 .formulario {
   display: flex;
-  width: 400px;
+  width: 432px;
   color: white;
 }
 
@@ -306,6 +306,7 @@ input:focus, textarea:focus {
 
 .sexo {
   margin-top: 10px;
+  font-size: 14px;
 }
 
 
